@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My First Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="first_fragment_line1">Hello, first line of the fragment</string>
+    <string name="first_fragment_line2">Second line of the fragment, goodbye</string>
+    <string name="button_fragment1">Press here</string>
+    <string name="toast_string">This button is between two Textviews!</string>
+
+</resources>
